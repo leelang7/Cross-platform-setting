@@ -35,6 +35,7 @@ Windows 기준, VS Code 및 Git은 설치되어 있다고 가정
    ​    ✔ Android SDK Platform
    ​    ✔ Android Virtual Device(AVD) → 필요시
    ​    ✔ Android SDK Command-line Tools (중요)
+   
 
    2-3) SDK path 확인(보통 아래와 같음)
 
@@ -42,11 +43,13 @@ Windows 기준, VS Code 및 Git은 설치되어 있다고 가정
    C:\Users\<계정명>\AppData\Local\Android\Sdk
    ```
 
+
    2-4) 환경 변수 추가
 
 <img width="922" height="1081" alt="스크린샷 2025-11-19 154024" src="https://github.com/user-attachments/assets/ce224f6c-3dcc-4d76-935a-60ed6100c37a" />
 
 <img width="746" height="1520" alt="스크린샷 2025-11-19 154312" src="https://github.com/user-attachments/assets/55fd430b-1b7a-4765-b75f-0cf7542da932" />
+
 
 
 3. Flutter 설치
@@ -144,5 +147,6 @@ adb devices # 실기기 연결 확인
 ```
 flutter devices # Flutter가 폰을 인식하는지 확인
 ```
+
 
 
