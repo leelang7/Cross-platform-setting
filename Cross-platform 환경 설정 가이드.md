@@ -21,13 +21,13 @@ Windows 기준, VS Code 및 Git은 설치되어 있다고 가정
 
    기존의 cmd창을 끄고 새로 켠 후 확인해서 위와 같이 나오면 잘 설치 된 것
 
-   
 
 2.  Android Studio 설치
 
    2-1) https://developer.android.com/studio?hl=ko 에서 다운로드 후 설치
 
    2-2) Android Studio 실행 → More Actions → SDK Manager
+   
 
    ​      **설치 시 반드시 체크할 것**
 
@@ -147,6 +147,7 @@ adb devices # 실기기 연결 확인
 ```
 flutter devices # Flutter가 폰을 인식하는지 확인
 ```
+
 
 
 
